@@ -1,0 +1,19 @@
+What is the theme of the song with the following lyrics-
+---------------------------------------------------------------------------
+Describe the theme of the song with the following lyrics using 5 words-
+---------------------------------------------------------------------------
+Describe the theme of the song with the following lyrics using 5 keywords-
+---------------------------------------------------------------------------
+Describe the theme of the song with the following lyrics using less than 6 keywords-
+---------------------------------------------------------------------------
+Describe the theme of the song with the following lyrics using not more than 5 keywords-
+---------------------------------------------------------------------------
+Describe the theme of the song with the following lyrics using not more than 5 single word keywords, where the keywords are separated by commas-
+---------------------------------------------------------------------------
+Describe the theme of the song with the following lyrics using 3 to 5 single word keywords, where the keywords are separated by commas-
+---------------------------------------------------------------------------
+Describe the song with the following lyrics using 3 to 5 single word keywords, where the keywords are separated by commas- 
+---------------------------------------------------------------------------
+Describe the song with the following lyrics using 3 to 5 single word keywords, where the keywords are separated by commas. The output should contain only the keywords-
+---------------------------------------------------------------------------
+Describe the song with the following lyrics using 3 to 5 single word keywords, where the  output is only the keywords separated by commas and does not contain the word 'keywords'-
