@@ -22,4 +22,4 @@
 1. `prjapi.ipynb`: Code to scrape TS lyrics from Genius website
 2. `lg_TS.ipynb`: Code to use `lyricsgenius` library to extract and clean all lyrics by Taylor Swift. JSON file with title and lyrics generated.
 3. `lg_other.ipynb`: Code to use `lyricsgenius` library to extract and clean 300 songs of 6 other artists. JSON file with title and lyrics generated.
-4. `ljson_to_csv.ipynb`: Code to convert the data in the json files into csv file to be used by the BERT classifier.
+4. `json_to_csv.ipynb`: Code to convert the data in the json files into csv file to be used by the BERT classifier.
