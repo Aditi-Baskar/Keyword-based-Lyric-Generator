@@ -34,6 +34,6 @@
 5. `data_split.ipynb`: clean and split the songs dataset
 6. `keyword_generation.ipynb`: generate keywords for the songs using gpt-3.5-turbo
 7. `final_dataset.ipynb`: clean and combine the split datasets with keywords to form the final training dataset
-8. 't5_fine_tuning.ipynb`: fine tune T5 model on keywords and lyrics
+8. `t5_fine_tuning.ipynb`: fine tune T5 model on keywords and lyrics
 9. `semantic_evaluation.ipynb`: generate cosine similarity for the test set lyrics
 
