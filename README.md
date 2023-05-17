@@ -35,7 +35,7 @@
 6. `keyword_generation.ipynb`: generate keywords for the songs using gpt-3.5-turbo
 7. `final_dataset.ipynb`: clean and combine the split datasets with keywords to form the final training dataset
 8. `t5_fine_tuning.ipynb`: fine tune T5 model on keywords and lyrics
-9. `semantic_evaluation.ipynb`: generate cosine similarity for the test set lyrics
+9. `semantic_evaluation.ipynb`: compute cosine similarity for the keywords generated from test set lyrics
 10. `Ngram.ipynb`: Code to create n gram model(baseline model 1) and generate text
 11. `Ngram_with_keyword.ipynb`: Code to create n gram model including keywords(baseline model 2) and generate text
 12. `bert_2.ipynb`: Code to train the bert classifier to perform stylistic evaluation 
