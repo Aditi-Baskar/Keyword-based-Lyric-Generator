@@ -38,4 +38,4 @@
 9. `semantic_evaluation.ipynb`: generate cosine similarity for the test set lyrics
 10. `Ngram.ipynb`: Code to create n gram model(baseline model 1) and generate text
 11. `Ngram_with_keyword.ipynb`: Code to create n gram model including keywords(baseline model 2) and generate text
-12. `bert-2.ipynb`: Code to train the bert classifier to perform stylistic evaluation 
+12. `bert_2.ipynb`: Code to train the bert classifier to perform stylistic evaluation 
