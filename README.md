@@ -8,7 +8,7 @@
 - Suraj Jain
 
 ## File Log
-### data
+### `data`
 
 #### flan-t5-Small
 1. `t5_testing.csv`: original and T5 generated lyrics for test set
