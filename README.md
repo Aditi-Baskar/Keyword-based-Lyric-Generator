@@ -36,4 +36,5 @@
 7. `final_dataset.ipynb`: clean and combine the split datasets with keywords to form the final training dataset
 8. `t5_fine_tuning.ipynb`: fine tune T5 model on keywords and lyrics
 9. `semantic_evaluation.ipynb`: generate cosine similarity for the test set lyrics
+10. `Ngram.ipynb`: Code to create n gram model and generate text
 
