@@ -3,9 +3,9 @@
 
 ## Contributors
 - Aditi Baskar
-- Suraj Jain
 - Akshaya Mohan
 - Niel Parekh
+- Suraj Jain
 
 ## File Log
 
