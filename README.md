@@ -8,6 +8,8 @@
 - Suraj Jain (<surajjain@umass.edu>)
 
 ## File Log
+### Project report: `Keyword-Based Lyric Generation Report.pdf`
+
 ### `data`
 
 #### `flan-t5-Small`
